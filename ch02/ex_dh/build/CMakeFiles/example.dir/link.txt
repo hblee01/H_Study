@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/example.dir/src/ex3.cpp.o  -o example 

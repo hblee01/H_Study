@@ -1,0 +1,2 @@
+kinematics_demo:pick_n_place:puma560_description:puma560_moveit_config:traj_plan
+-DCATKIN_WHITELIST_PACKAGES=kinematics_demo -DCATKIN_DEVEL_PREFIX=/home/lhb/H_Study/ch03/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lhb/H_Study/ch03/catkin_ws/install -G Unix Makefiles

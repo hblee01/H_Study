@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lhb/H_Study/ch02/ex_dh/src/dh.hpp
+eigen3/Eigen/Dense
+-
+
+/home/lhb/H_Study/ch02/ex_dh/src/ex3.cpp
+iostream
+-
+vector
+-
+dh.hpp
+/home/lhb/H_Study/ch02/ex_dh/src/dh.hpp
+
